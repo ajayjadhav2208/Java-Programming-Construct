@@ -1,3 +1,7 @@
+/* Write a program that takes User Inputs and does Unit Conversion of different Length units
+1. Feet to Inch             3. Inch to Feet
+2. Feet to Meter            4. Meter to Feet
+*/
 
 console.log ("enter what you want to do = ");
 let select = parseInt(prompt("1-feet to inch 2-inch to feet 3-feet to meter 4-meter to feet "));
